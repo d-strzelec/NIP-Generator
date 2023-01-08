@@ -1,9 +1,6 @@
 package NIP::Generator;
 
 #-----------------------------------------------------------------------
-use vars qw( $VERSION );
-$VERSION = 1.1;
-#-----------------------------------------------------------------------
 use warnings;
 use strict;
 use base		qw( Exporter::Tiny	);
